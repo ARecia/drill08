@@ -10,6 +10,8 @@ class Grass:
     def update(self):
         pass
 
+class
+
 def handle_events():
     global running
     events = get_events()
