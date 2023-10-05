@@ -33,8 +33,6 @@ def update_world():
 def render_world():
     clear_canvas()
     update_canvas()
-    open_canvas()
-
 
 open_canvas()
 
